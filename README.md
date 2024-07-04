@@ -14,3 +14,5 @@ This is a simple Flask application that performs CRUD (Create, Read, Update, Del
 - Python 3.x
 - Flask 3.0.3
 - Flask-SQLAlchemy 3.0.3
+
+## Render Deployed URL : https://flaskstudentcrudapp.onrender.com
